@@ -23,9 +23,11 @@ A classic memory-based "Simon Says" game built using HTML, CSS, and vanilla Java
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
 
 ```bash
+1. Clone the repository:
+
+
 git clone https://github.com/aakashschauhan/simon-says.git
 cd simon-says
 2. Open index.html in your browser:
@@ -46,12 +48,11 @@ simon-says/
 ├── index.html
 ├── style.css
 └── app.js
-📸 Screenshot
-Add a screenshot to your repo (e.g., screenshot.png) and update the image path above if needed.
+
 
 🙋‍♂️ Author
 Aakash Singh Chauhan
-GitHub Profile
+https://github.com/aakashschauhan
 
 📝 License
 This project is licensed under the MIT License.
