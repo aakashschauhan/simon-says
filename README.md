@@ -56,5 +56,3 @@ https://github.com/aakashschauhan
 
 📝 License
 This project is licensed under the MIT License.
-
-💡 Bonus: You can host this game using GitHub Pages for free and add a live demo link to this README.
