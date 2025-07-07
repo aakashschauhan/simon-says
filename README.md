@@ -28,7 +28,7 @@ A classic memory-based "Simon Says" game built using HTML, CSS, and vanilla Java
 ```bash
 git clone https://github.com/aakashschauhan/simon-says.git
 cd simon-says
-Open index.html in your browser:
+2. Open index.html in your browser:
 
 bash
 Copy
